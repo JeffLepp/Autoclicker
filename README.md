@@ -1,0 +1,1 @@
+Simple project creating a basic autoclicker in python. Change time.sleep to make it click faster or slower. Change space in k.is_pressed('space') to whatever key you want to terminate the autoclicker.
